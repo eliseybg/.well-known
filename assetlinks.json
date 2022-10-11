@@ -13,20 +13,5 @@
         "64:FB:3B:5A:03:94:D8:CB:0C:57:CA:15:17:05:73:66:C2:F9:3F:A8:2F:71:2A:62:1C:05:04:7C:82:6C:47:E0"
       ]
     }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.foxeducation.school.qa",
-      "sha256_cert_fingerprints": [
-        "27:9D:33:74:30:83:BF:74:41:86:1B:E1:63:DA:27:C9:81:FE:B3:63:1F:57:22:00:EC:A3:BD:D9:8F:E9:73:7A",
-        "FB:6E:0D:0C:E1:8E:78:A8:DD:07:31:8C:6A:5D:A0:45:C5:EB:B9:90:40:7E:B0:DD:39:4D:D0:C6:79:4C:89:1F",
-        "82:34:95:02:19:76:97:ED:67:16:06:91:27:E1:D5:A7:E8:E9:D9:75:D2:97:D0:78:DB:E2:01:60:AE:3F:AA:23",
-        "64:FB:3B:5A:03:94:D8:CB:0C:57:CA:15:17:05:73:66:C2:F9:3F:A8:2F:71:2A:62:1C:05:04:7C:82:6C:47:E0"
-      ]
-    }
   }
 ]
