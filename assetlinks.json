@@ -5,9 +5,11 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.foxeducation.school",
+      "package_name": "com.brvz.mobile.brvz.main",
       "sha256_cert_fingerprints": [
-        "27:9D:33:74:30:83:BF:74:41:86:1B:E1:63:DA:27:C9:81:FE:B3:63:1F:57:22:00:EC:A3:BD:D9:8F:E9:73:7A"
+        "E6:CC:42:3E:50:15:C9:F1:DD:DF:7B:EE:B1:4A:DB:9C:C3:5B:41:B6:71:D9:D5:9D:20:4B:CB:A3:7C:80:17:6D",
+        "BA:66:8C:32:9C:81:CB:CA:8A:46:09:E5:06:2E:B2:35:8F:09:DE:1F:73:DA:C4:EF:EA:36:97:CA:B6:DE:A8:77",
+        "02:E3:A4:CA:7B:83:E9:F9:29:34:F7:6B:F9:F9:05:BC:34:2B:C7:B1:B2:DD:0F:07:D1:86:0B:89:1B:A7:CA:13"
       ]
     }
   }
